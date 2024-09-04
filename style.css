@@ -204,6 +204,7 @@ padding-top: 8px;
 
 .about-me__links {
     animation: fade-up 650ms 800ms backwards;
+    margin-bottom: 20px;
 
 }
 
