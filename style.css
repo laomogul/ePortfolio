@@ -145,6 +145,7 @@ nav {
     flex-direction: column;
 }
 .about-me__info--container {
+    flex: 1;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -232,13 +233,6 @@ padding-top: 8px;
     100% {
         transform: rotate(0);
     }
-}
-
-
-.about-me__info--container {
-    flex: 1;
-    display: flex;
-    align-items: center;
 }
 
 .about-me__img {
